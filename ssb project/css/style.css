@@ -1,0 +1,58 @@
+body{
+	margin: 0
+	padding:0;
+}
+.container{
+
+height: 500%;
+
+width: 92%;
+
+margin: auto;
+}
+.imgbox{
+	text-align: center;
+}
+.imgbox img{
+
+height: 69px;
+
+width: 38%;
+}
+.colour1{
+
+color: #286d9e;
+}
+.colour2{
+
+}
+.colour3{
+
+}
+.colour4{
+	
+}
+.content h1{
+
+text-align: center;
+}
+.hk img{
+	max-width: 100%
+}
+.yo p{
+	text-align: center;
+}
+.yo2 h1{
+	
+background-color: seagreen;
+	
+height: 145px;
+	
+text-align: center;
+	
+padding: 60px;
+	
+font-size: 40px;
+	
+color: white;
+}
